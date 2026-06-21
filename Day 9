@@ -1,4 +1,4 @@
-Day 10 – Tuples & Sets
+ Day 10 – Tuples & Sets
 #Challenge 1: Tuple Create
 
 colors = ("Red", "Green", "Blue")
